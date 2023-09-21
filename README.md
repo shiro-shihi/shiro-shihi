@@ -19,7 +19,7 @@
 
 ### Explore SCN Project! 🚀
 <a href="https://github.com/scn-project" target="_blank">
-  <img src="logo_type2-1024_1024.PNG" width="50px">
+  <img src="logo_type2-1024_1024.PNG" width="75px">
 </a>
 
 Feel free to explore my projects and say hello! Let's make the coding world a more exciting and colorful place together! 🌈✨
