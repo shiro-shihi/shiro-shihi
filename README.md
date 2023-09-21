@@ -9,8 +9,14 @@
 - **GitHub**: [🌟 GitHub](https://GitHub.com/shiro-shihi){:target="_blank"}
 - **Instagram**: [📸 Instagram](https://instagram.com/shiro_shihi){:target="_blank"}
 
-- **Twitter**: [![twitter.png](twitter.png)](https://twitter.com/shiro_shihi){:target="_blank"}
-- **GitHub**: [![github.png](github-mark.png)](https://GitHub.com/shiro-shihi){:target="_blank"}
+- **Twitter**
+<a href="https://twitter.com/shiro_shihi">
+  <img src="twitter.png" width="50px">
+</a>
+- **GitHub**
+<a href="https://github.com/shiro-shihi">
+  <img src="github-mark.png" width="50px">
+</a>
 - **Instagram**: [![instagram.png](Instagram_Glyph_Gradient.png)](https://instagram.com/shiro_shihi){:target="_blank"}
 
 ### Explore SCN Project! 🚀
