@@ -5,15 +5,15 @@
 🎉 I'm all about connecting with awesome people, so don't be shy—let's connect on social media! 
 
 ## Let's Get Social 🌐
-<a href="https://twitter.com/shiro_shihi" target="_blank">  
+<a href="https://twitter.com/shiro_shihi" target="_blank" rel="noopener noreferrer">  
   <img src="twitter.png" width="30px">  
 </a>
 
-<a href="https://github.com/shiro-shihi" target="_blank">  
+<a href="https://github.com/shiro-shihi" target="_blank" rel="noopener noreferrer">  
   <img src="github-mark.png" width="30px">  
 </a> 
 
-<a href="https://instagram.com/shiro_shihi" target="_blank">
+<a href="https://instagram.com/shiro_shihi" target="_blank" rel="noopener noreferrer">
   <img src="Instagram_Glyph_Gradient.png" width="30px">
 </a>
 
