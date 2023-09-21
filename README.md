@@ -18,7 +18,11 @@
 </a>
 
 ### Explore SCN Project! 🚀
-- **SCN Project**: [![scn.png](scn.png)](https://github.com/SCN-Project){:target="_blank"}
+- **SCN Project**:
+<a href="https://github.com/scn-project" target="_blank">
+  <img src="logo_type2-1024_1024.PNG" width="30px">
+</a>
+
 Feel free to explore my projects and say hello! Let's make the coding world a more exciting and colorful place together! 🌈✨
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiro-shihi&label=Profile%20views&color=0e75b6&style=flat" alt="shiro-shihi" /> </p>
