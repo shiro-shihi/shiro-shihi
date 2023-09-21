@@ -5,23 +5,16 @@
 🎉 I'm all about connecting with awesome people, so don't be shy—let's connect on social media! 
 
 ## Let's Get Social 🌐
-
-- **Twitter**
-
 <a href="https://twitter.com/shiro_shihi" target="_blank">  
-  <img src="twitter.png" width="50px">  
+  <img src="twitter.png" width="30px">  
 </a>
 
-- **GitHub**
-
 <a href="https://github.com/shiro-shihi" target="_blank">  
-  <img src="github-mark.png" width="50px">  
-</a>  
-
-- **Instagram**
+  <img src="github-mark.png" width="30px">  
+</a> 
 
 <a href="https://instagram.com/shiro_shihi" target="_blank">
-  <img src="Instagram_Glyph_Gradient.png" width="50px">
+  <img src="Instagram_Glyph_Gradient.png" width="30px">
 </a>
 
 ### Explore SCN Project! 🚀
