@@ -6,15 +6,15 @@
 
 ## Let's Get Social 🌐
 <a href="https://twitter.com/shiro_shihi" target="_blank">  
-  <img src="twitter.png" width="30px">  
+  <img src="twitter.png" height="30px">  
 </a>
 
 <a href="https://github.com/shiro-shihi" target="_blank">  
-  <img src="github-mark.png" width="30px">  
+  <img src="github-mark.png" height="30px">  
 </a> 
 
 <a href="https://instagram.com/shiro_shihi" target="_blank">
-  <img src="Instagram_Glyph_Gradient.png" width="30px">
+  <img src="Instagram_Glyph_Gradient.png" height="30px">
 </a>
 
 ### Explore SCN Project! 🚀
