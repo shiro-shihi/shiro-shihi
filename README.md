@@ -1,4 +1,7 @@
 <h1 align="center">Hey there! 👋</h1>
+
+[![Twitter](https://img.shields.io/badge/--FFFFFF?style=social&logo=twitter&label=Follow%20shiro_shihi)](https://twitter.com/shiro_shihi)
+
 ## About Me
 
 🌟 Hi, I'm Shihiro Saida, the Founder of the **[@SCN Project](https://twitter.com/SCN_Project)** 🚀. 
