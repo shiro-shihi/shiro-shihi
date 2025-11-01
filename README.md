@@ -1,20 +1,79 @@
-# Hi there, I'm Shihiro TAKEDA! 👋
+<!-- 🌟 Header -->
+<h1 align="center">Hey there 👋, I'm Shihiro Takeda</h1>
+<h3 align="center">🚀 Full Stack Developer | 🧠 AI Enthusiast | ☕ Minimalist Coder</h3>
 
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Building+beautiful+things+with+code;Always+learning+new+technologies;Lover+of+clean+UI+%26+good+coffee;Welcome+to+my+GitHub!+💻" alt="Typing SVG" />
+</p>
 
-## About Me ℹ️
-- 🎓 東京高専 電子工学科の2年生です。
-- 🌟 コンピュータサイエンスとソフトウェア開発に興味があります。
-- 🌱 現在はGo、Ruby、JavaScript、TypeScript、Pythonを中心に学習しています。
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shiro-shihi&label=Profile%20views&color=0e75b6&style=flat" alt="shiro-shihi" />
+</p>
 
-## Skills 🚀
-- **言語:** <img src="https://img.shields.io/badge/-Javascript-F7DF1E.svg?logo=javascript&style=plastic"> <img src="https://img.shields.io/badge/-Go-76E1FE.svg?logo=go&style=plastic"> <img src="https://img.shields.io/badge/-Ruby-CC342D.svg?logo=ruby&style=plastic"> <img src="https://img.shields.io/badge/-Python-3776AB.svg?logo=python&style=plastic">
-- **フレームワーク/ライブラリ:** <img src="https://img.shields.io/badge/-React-61DAFB.svg?logo=react&style=plastic"> <img src="https://img.shields.io/badge/-Node.js-339933.svg?logo=node.js&style=plastic"> <img src="https://img.shields.io/badge/-Nuxt.js-00C58E.svg?logo=nuxt.js&style=plastic"> <img src="https://img.shields.io/badge/-Next.js-000000.svg?logo=next.js&style=plastic">
-- **データベース:** <img src="https://img.shields.io/badge/-Postgresql-336791.svg?logo=postgresql&style=plastic"> <img src="https://img.shields.io/badge/-Mongodb-47A248.svg?logo=mongodb&style=plastic">
-- **その他:** <img src="https://img.shields.io/badge/-Git-F05032.svg?logo=git&style=plastic"> <img src="https://img.shields.io/badge/-Docker-1488C6.svg?logo=docker&style=plastic"> <img src="https://img.shields.io/badge/-Amazon%20aws-232F3E.svg?logo=amazon-aws&style=plastic"> <img src="https://img.shields.io/badge/-Google%20analytics-FFC107.svg?logo=google-analytics&style=plastic">
+---
 
-## Contact Me 📫
-- GitHub: [@shiro-shihi](https://github.com/shiro-shihi)
-- Twitter: [@Shiro_Shihi](https://twitter.com/shiro_shihi)
-- Email: shihiro@takeda.com
+### 🧑‍💻 About Me
+- 🔭 I’m currently working on **AI tools & Web projects**
+- 🌱 Learning **Next.js / TypeScript / FastAPI / Cloud**
+- 💬 Ask me about **frontend performance, UI/UX, and Python**
+- 🎯 Goal for 2025: Build something that makes people’s lives easier
+- ⚡ Fun fact: I debug faster with lo-fi music 🎧
 
-[![Followers](https://badgen.org/img/bluesky/shihiro.com/followers?style=plastic)](https://bsky.app/profile/shihiro.com)
+---
+
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,python,fastapi,git,github,vscode,figma,docker,aws,vercel,linux,postgres" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shiro-shihi&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiro-shihi&layout=compact&theme=tokyonight" alt="Top Langs"/>
+</p>
+
+---
+
+### 🔥 Streak & Trophies
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shiro-shihi&theme=tokyonight" alt="GitHub streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shiro-shihi&theme=onedark&row=1&column=6" alt="Trophies" />
+</p>
+
+---
+
+### 💡 GitHub Metrics
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shiro-shihi&theme=tokyo-night" alt="Activity Graph" />
+</p>
+
+---
+
+### 🪄 Fun Widgets
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=shiro-shihi&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Contributor Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-quote.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code+is+like+humor.+When+you+have+to+explain+it,+it’s+bad.&author=Cory+House" alt="Quote" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+<p align="center">
+  <a href="https://twitter.com/" target="blank"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
+  <a href="https://linkedin.com/in/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="https://shiro-shihi.github.io/" target="blank"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
+</p>
+
+---
+
+⭐️ From [shiro-shihi](https://github.com/shiro-shihi)
