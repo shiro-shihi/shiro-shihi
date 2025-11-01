@@ -38,10 +38,7 @@
 
 ---
 
-### 🔥 Streak & Trophies
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=shiro-shihi&theme=tokyonight&v=2" alt="GitHub streak"/>
-</p>
+### 🔥 Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=shiro-shihi&theme=onedark&row=1&column=6" alt="Trophies" />
