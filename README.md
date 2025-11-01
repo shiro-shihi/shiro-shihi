@@ -40,7 +40,7 @@
 
 ### 🔥 Streak & Trophies
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shiro-shihi&theme=tokyonight" alt="GitHub streak"/>
+  <img src="https://streak-stats.demolab.com?user=shiro-shihi&theme=tokyonight" alt="GitHub streak"/>
 </p>
 
 <p align="center">
